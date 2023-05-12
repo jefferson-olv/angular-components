@@ -14,4 +14,9 @@ export class Button {
   buttonObject = {
     label: 'Adicionar ao carrinho'
   };
+  // event binding
+  getAlert(num: number) {
+    alert(num);
+  }
+
 }
