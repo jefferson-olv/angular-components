@@ -1,0 +1,18 @@
+/* Add application styles & imports to this file! */
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: yellow;
+}
+
+h2, p {
+  color: white;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+}
